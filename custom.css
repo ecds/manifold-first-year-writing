@@ -1,0 +1,19 @@
+table, img {
+    /*width: 100% !important;*/
+    height: unset !important;
+    margin: auto;
+}
+
+.manifold-text-section {
+    width: 100% !important;
+}
+
+#manifold-text-section span {
+    display: unset !important;
+}
+
+p img {
+    text-align: center;
+    display: block;
+    margin-left: auto !important;
+}
